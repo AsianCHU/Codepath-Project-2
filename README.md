@@ -4,7 +4,7 @@ Submitted by: Dave Mathew Marteja
 
 Wordle is an app that lets you guess words while giving you hints along the way 
 
-Time spent: 1 hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## Required Features
 
